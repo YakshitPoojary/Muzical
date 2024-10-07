@@ -1,0 +1,1 @@
+export const YT_REGEX = /^(?:(?:https?:)?\/\/)?(?:www\.)?(?:m\.)?(?:youtu(?:be)?\.com\/(?:v\/|embed\/|watch(?:\/|\?v=)|.*[?&]v=)|youtu\.be\/)([\w-]{11})(?:\S+)?$/;
